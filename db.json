@@ -1,10 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello od mene"
-    }
-  ],
+  "posts": [{"nadlezan":"IT","opis":"IT","aktivnost":"D"},{"nadlezan":"UPP","opis":"Upravljanje poslovnim prostorima","aktivnost":"D"},{"nadlezan":"NAB","opis":"Nabava","aktivnost":"D"},{"nadlezan":"KP","opis":"Kartično poslovanje","aktivnost":"D"},{"nadlezan":"SIG","opis":"Sigurnost","aktivnost":"D"}]
+  
+  
+  ,
   "profile": {
     "name": "Zvone"
   }
